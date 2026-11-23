@@ -1,0 +1,9 @@
+# Power BI file (kept private)
+powerbi/
+*.pbix
+
+# Jupyter / system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db

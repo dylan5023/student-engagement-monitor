@@ -1,0 +1,479 @@
+Record_ID,Gender,Nationality,Place_of_Birth,Stage,Grade,Section,Topic,Semester,Relation,Raised_Hands,Visited_Resources,Announcements_Viewed,Discussion_Posts,Parent_Answered_Survey,Parent_Satisfaction,Absence_Days,Class_Code,Grade_Number,Performance,Performance_Order,Is_Low_Performer,Absent_7_Plus,Engagement_Score
+1,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,15,16,2,20,Yes,Good,Under-7,M,4,Medium,2,False,False,13.2
+2,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,20,20,3,25,Yes,Good,Under-7,M,4,Medium,2,False,False,17.0
+3,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,10,7,0,30,No,Bad,Above-7,L,4,Low,1,True,True,11.8
+4,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,30,25,5,35,No,Bad,Above-7,L,4,Low,1,True,True,23.8
+5,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,40,50,12,50,No,Bad,Above-7,M,4,Medium,2,False,True,38.0
+6,F,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,42,30,13,70,Yes,Bad,Above-7,M,4,Medium,2,False,True,38.8
+7,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,35,12,0,17,No,Bad,Above-7,L,7,Low,1,True,True,16.0
+8,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,50,10,15,22,Yes,Good,Under-7,M,7,Medium,2,False,False,24.2
+9,F,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,12,21,16,50,Yes,Good,Under-7,M,7,Medium,2,False,False,24.8
+10,F,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,70,80,25,70,Yes,Good,Under-7,M,7,Medium,2,False,False,61.2
+11,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,50,88,30,80,Yes,Good,Under-7,H,7,High,3,False,False,62.0
+12,M,Kuwait,Kuwait,Middle School,G-07,B,Math,First,Father,19,6,19,12,Yes,Good,Under-7,M,7,Medium,2,False,False,14.0
+13,M,Kuwait,Kuwait,Elementary,G-04,A,IT,First,Father,5,1,0,11,No,Bad,Above-7,L,4,Low,1,True,True,4.2
+14,M,Lebanon,Lebanon,Middle School,G-08,A,Math,First,Father,20,14,12,19,No,Bad,Above-7,L,8,Low,1,True,True,16.2
+15,F,Kuwait,Kuwait,Middle School,G-08,A,Math,First,Mum,62,70,44,60,No,Bad,Above-7,H,8,High,3,False,True,59.0
+16,F,Kuwait,Kuwait,Middle School,G-06,A,IT,First,Father,30,40,22,66,Yes,Good,Under-7,M,6,Medium,2,False,False,39.5
+17,M,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,36,30,20,80,No,Bad,Above-7,M,7,Medium,2,False,True,41.5
+18,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,55,13,35,90,No,Bad,Above-7,M,7,Medium,2,False,True,48.2
+19,F,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Mum,69,15,36,96,Yes,Good,Under-7,M,7,Medium,2,False,False,54.0
+20,M,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Mum,70,50,40,99,Yes,Good,Under-7,H,7,High,3,False,False,64.8
+21,F,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,60,60,33,90,No,Bad,Above-7,M,7,Medium,2,False,True,60.8
+22,F,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,10,12,4,80,No,Bad,Under-7,M,7,Medium,2,False,False,26.5
+23,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,15,21,2,90,No,Bad,Under-7,M,7,Medium,2,False,False,32.0
+24,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,2,0,2,50,No,Bad,Above-7,L,7,Low,1,True,True,13.5
+25,M,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,0,2,3,70,Yes,Good,Above-7,L,7,Low,1,True,True,18.8
+26,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,8,7,30,40,Yes,Good,Above-7,L,7,Low,1,True,True,21.2
+27,M,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,19,19,25,40,Yes,Bad,Under-7,M,7,Medium,2,False,False,25.8
+28,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,First,Father,25,15,12,33,No,Bad,Above-7,L,8,Low,1,True,True,21.2
+29,M,Kuwait,Kuwait,Middle School,G-08,A,Science,First,Father,75,85,52,43,Yes,Good,Under-7,M,8,Medium,2,False,False,63.8
+30,F,Kuwait,Kuwait,Middle School,G-08,A,Arabic,First,Father,30,90,33,35,No,Bad,Under-7,M,8,Medium,2,False,False,47.0
+31,F,Kuwait,Kuwait,Middle School,G-08,A,Arabic,First,Father,35,80,50,70,Yes,Good,Under-7,H,8,High,3,False,False,58.8
+32,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,4,5,40,16,Yes,Good,Above-7,L,7,Low,1,True,True,16.2
+33,F,Kuwait,Kuwait,Elementary,G-07,A,IT,First,Father,2,19,10,50,Yes,Good,Above-7,L,7,Low,1,True,True,20.2
+34,M,Kuwait,Kuwait,Elementary,G-05,A,English,First,Father,8,22,9,40,No,Bad,Above-7,L,5,Low,1,True,True,19.8
+35,M,Kuwait,Kuwait,Middle School,G-07,B,Science,First,Father,12,11,8,40,No,Bad,Above-7,L,7,Low,1,True,True,17.8
+36,M,Kuwait,Kuwait,Middle School,G-07,A,English,First,Father,10,12,17,30,No,Bad,Above-7,L,7,Low,1,True,True,17.2
+37,M,Kuwait,Kuwait,Middle School,G-07,B,Science,First,Mum,8,6,4,22,Yes,Good,Above-7,L,7,Low,1,True,True,10.0
+38,F,Egypt,Egypt,Middle School,G-07,A,IT,First,Father,45,54,26,90,Yes,Good,Under-7,M,7,Medium,2,False,False,53.8
+39,M,Kuwait,Kuwait,Middle School,G-06,A,IT,First,Father,0,0,0,4,No,Bad,Above-7,L,6,Low,1,True,True,1.0
+40,F,Saudi Arabia,Saudi Arabia,Middle School,G-07,B,Science,First,Father,50,90,37,70,Yes,Good,Under-7,M,7,Medium,2,False,False,61.8
+41,F,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,14,13,3,70,No,Bad,Above-7,L,7,Low,1,True,True,25.0
+42,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,19,20,16,50,No,Good,Under-7,M,7,Medium,2,False,False,26.2
+43,M,Kuwait,Kuwait,High School,G-09,A,IT,First,Father,10,12,7,33,Yes,Good,Above-7,L,9,Low,1,True,True,15.5
+44,F,Kuwait,Kuwait,High School,G-09,A,IT,First,Father,30,35,28,90,Yes,Good,Under-7,M,9,Medium,2,False,False,45.8
+45,F,Kuwait,Kuwait,High School,G-09,A,IT,First,Father,33,33,30,90,No,Bad,Under-7,M,9,Medium,2,False,False,46.5
+46,M,Kuwait,Kuwait,Middle School,G-07,A,Quran,First,Father,20,12,15,70,No,Good,Above-7,L,7,Low,1,True,True,29.2
+47,M,Kuwait,Kuwait,Elementary,G-05,A,English,First,Father,7,10,1,30,No,Bad,Above-7,L,5,Low,1,True,True,12.0
+48,F,Kuwait,Kuwait,High School,G-12,A,English,First,Mum,70,4,39,90,Yes,Good,Under-7,H,12,High,3,False,False,50.8
+49,F,Kuwait,Kuwait,High School,G-12,A,English,First,Mum,13,80,40,88,Yes,Good,Under-7,H,12,High,3,False,False,55.2
+50,F,Kuwait,Kuwait,High School,G-12,A,English,First,Father,29,39,50,77,Yes,Good,Under-7,M,12,Medium,2,False,False,48.8
+51,F,Kuwait,Kuwait,High School,G-12,A,English,First,Father,20,14,12,70,No,Bad,Above-7,L,12,Low,1,True,True,29.0
+52,M,Kuwait,Kuwait,High School,G-12,A,English,First,Father,39,15,16,50,No,Good,Above-7,L,12,Low,1,True,True,30.0
+53,F,Kuwait,Kuwait,High School,G-12,A,English,First,Father,55,90,16,40,No,Bad,Under-7,M,12,Medium,2,False,False,50.2
+54,F,Kuwait,Kuwait,High School,G-11,A,Science,First,Mum,49,70,19,75,Yes,Good,Under-7,H,11,High,3,False,False,53.2
+55,M,Kuwait,Kuwait,High School,G-12,A,English,First,Mum,12,50,8,30,No,Bad,Above-7,L,12,Low,1,True,True,25.0
+56,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,16,14,6,20,Yes,Good,Above-7,L,7,Low,1,True,True,14.0
+57,M,USA,USA,Middle School,G-08,B,Math,First,Father,19,5,4,1,Yes,Good,Above-7,L,8,Low,1,True,True,7.2
+58,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,5,2,6,5,Yes,Good,Above-7,L,7,Low,1,True,True,4.5
+59,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,28,60,19,50,Yes,Good,Under-7,M,7,Medium,2,False,False,39.2
+60,F,USA,USA,Middle School,G-07,A,Math,First,Father,27,22,22,40,No,Good,Under-7,M,7,Medium,2,False,False,27.8
+61,F,Jordan,Jordan,Elementary,G-05,A,English,First,Mum,21,10,28,20,No,Good,Above-7,L,5,Low,1,True,True,19.8
+62,M,Kuwait,Kuwait,High School,G-10,A,IT,First,Father,50,70,32,40,Yes,Good,Under-7,M,10,Medium,2,False,False,48.0
+63,M,Venezuela,Venezuela,High School,G-10,A,IT,First,Mum,80,90,70,80,Yes,Good,Under-7,H,10,High,3,False,False,80.0
+64,M,Kuwait,Kuwait,High School,G-10,A,IT,First,Father,17,13,16,12,Yes,Bad,Under-7,M,10,Medium,2,False,False,14.5
+65,M,Kuwait,Kuwait,High School,G-10,A,IT,First,Father,0,5,7,2,No,Bad,Above-7,L,10,Low,1,True,True,3.5
+66,M,Kuwait,Kuwait,High School,G-12,A,English,First,Father,13,5,18,19,No,Bad,Above-7,L,12,Low,1,True,True,13.8
+67,F,Kuwait,Kuwait,High School,G-12,A,English,First,Father,25,10,19,30,No,Bad,Above-7,M,12,Medium,2,False,True,21.0
+68,F,USA,USA,High School,G-12,A,English,First,Mum,65,75,23,80,Yes,Good,Under-7,H,12,High,3,False,False,60.8
+69,F,USA,USA,High School,G-12,A,IT,First,Mum,70,69,35,30,Yes,Good,Under-7,H,12,High,3,False,False,51.0
+70,M,Jordan,Jordan,Middle School,G-07,A,IT,First,Father,39,40,11,33,No,Bad,Under-7,M,7,Medium,2,False,False,30.8
+71,M,Jordan,Jordan,Middle School,G-07,A,IT,First,Father,22,30,10,12,Yes,Good,Above-7,L,7,Low,1,True,True,18.5
+72,M,Kuwait,Kuwait,Middle School,G-07,A,IT,First,Father,29,22,9,20,Yes,Good,Under-7,M,7,Medium,2,False,False,20.0
+73,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,11,2,2,8,No,Bad,Under-7,L,7,Low,1,True,False,5.8
+74,F,Kuwait,Kuwait,Middle School,G-07,A,English,First,Father,19,30,26,19,Yes,Bad,Above-7,M,7,Medium,2,False,True,23.5
+75,M,Kuwait,Kuwait,Middle School,G-07,B,IT,First,Father,12,0,6,13,No,Bad,Under-7,L,7,Low,1,True,False,7.8
+76,M,Jordan,Jordan,Middle School,G-07,A,Quran,First,Mum,50,90,29,60,Yes,Good,Under-7,M,7,Medium,2,False,False,57.2
+77,M,Iran,Iran,High School,G-09,A,IT,First,Mum,15,70,37,44,Yes,Good,Under-7,M,9,Medium,2,False,False,41.5
+78,M,Kuwait,Kuwait,High School,G-09,A,IT,First,Father,20,80,33,33,Yes,Good,Under-7,M,9,Medium,2,False,False,41.5
+79,M,Kuwait,Kuwait,High School,G-11,A,Quran,First,Father,13,3,11,9,No,Bad,Above-7,L,11,Low,1,True,True,9.0
+80,F,Lebanon,Lebanon,Middle School,G-07,B,Math,First,Mum,80,90,49,55,Yes,Bad,Under-7,H,7,High,3,False,False,68.5
+81,M,Kuwait,Kuwait,Middle School,G-07,A,Math,First,Father,8,15,10,40,Yes,Bad,Under-7,L,7,Low,1,True,False,18.2
+82,M,Kuwait,Kuwait,Elementary,G-02,A,IT,First,Father,8,25,1,70,No,Bad,Above-7,L,2,Low,1,True,True,26.0
+83,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,7,5,2,80,Yes,Good,Above-7,L,2,Low,1,True,True,23.5
+84,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,7,4,10,50,No,Good,Above-7,M,2,Medium,2,False,True,17.8
+85,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,50,70,50,10,Yes,Good,Above-7,H,2,High,3,False,True,45.0
+86,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,1,0,1,12,No,Bad,Above-7,L,2,Low,1,True,True,3.5
+87,M,Saudi Arabia,Saudi Arabia,Elementary,G-02,B,IT,First,Father,70,12,40,50,Yes,Good,Under-7,H,2,High,3,False,False,43.0
+88,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,19,70,3,50,No,Bad,Under-7,L,2,Low,1,True,False,35.5
+89,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,3,12,4,33,No,Bad,Under-7,L,2,Low,1,True,False,13.0
+90,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,5,20,1,50,Yes,Good,Above-7,L,2,Low,1,True,True,19.0
+91,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,4,8,10,60,Yes,Good,Above-7,L,2,Low,1,True,True,20.5
+92,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,80,90,55,19,Yes,Good,Under-7,H,2,High,3,False,False,61.0
+93,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,50,70,19,15,Yes,Good,Under-7,H,2,High,3,False,False,38.5
+94,M,USA,USA,Elementary,G-02,B,IT,First,Father,55,89,40,40,Yes,Good,Under-7,H,2,High,3,False,False,56.0
+95,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,80,44,35,10,No,Good,Above-7,L,2,Low,1,True,True,42.2
+96,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,100,80,2,70,No,Bad,Under-7,H,2,High,3,False,False,63.0
+97,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,14,60,11,75,Yes,Good,Under-7,H,2,High,3,False,False,40.0
+98,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,6,2,38,12,No,Bad,Under-7,M,2,Medium,2,False,False,14.5
+99,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,10,3,0,30,No,Bad,Under-7,M,2,Medium,2,False,False,10.8
+100,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,50,7,9,50,Yes,Bad,Above-7,M,2,Medium,2,False,True,29.0
+101,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,50,90,40,90,Yes,Bad,Under-7,M,2,Medium,2,False,False,67.5
+102,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Mum,70,92,50,7,Yes,Good,Under-7,H,2,High,3,False,False,54.8
+103,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,2,6,2,8,No,Bad,Above-7,L,2,Low,1,True,True,4.5
+104,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,1,7,6,10,No,Bad,Above-7,L,2,Low,1,True,True,6.0
+105,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,0,12,3,3,Yes,Good,Above-7,M,2,Medium,2,False,True,4.5
+106,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,0,0,5,80,Yes,Good,Above-7,L,2,Low,1,True,True,21.2
+107,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,12,26,7,40,Yes,Good,Under-7,M,2,Medium,2,False,False,21.2
+108,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,70,90,41,33,Yes,Bad,Under-7,H,2,High,3,False,False,58.5
+109,M,Saudi Arabia,Saudi Arabia,Elementary,G-02,B,IT,First,Father,7,12,5,3,No,Bad,Above-7,M,2,Medium,2,False,True,6.8
+110,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,90,70,30,14,No,Bad,Under-7,M,2,Medium,2,False,False,51.0
+111,F,Jordan,Jordan,Elementary,G-02,B,IT,First,Mum,70,88,55,40,Yes,Good,Under-7,H,2,High,3,False,False,63.2
+112,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,77,80,51,80,No,Good,Under-7,M,2,Medium,2,False,False,72.0
+113,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,2,5,3,50,No,Bad,Above-7,L,2,Low,1,True,True,15.0
+114,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,25,27,0,69,No,Bad,Above-7,L,2,Low,1,True,True,30.2
+115,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,11,2,0,50,No,Bad,Above-7,L,2,Low,1,True,True,15.8
+116,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,0,8,11,70,Yes,Good,Above-7,L,2,Low,1,True,True,22.2
+117,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Mum,77,80,12,19,Yes,Good,Above-7,M,2,Medium,2,False,True,47.0
+118,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Mum,25,29,40,17,No,Good,Under-7,H,2,High,3,False,False,27.8
+119,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Mum,24,35,23,22,Yes,Good,Above-7,M,2,Medium,2,False,True,26.0
+120,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,60,60,3,60,No,Bad,Under-7,M,2,Medium,2,False,False,45.8
+121,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Mum,21,12,0,50,Yes,Good,Under-7,M,2,Medium,2,False,False,20.8
+122,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Mum,0,4,8,30,No,Bad,Above-7,L,2,Low,1,True,True,10.5
+123,F,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,66,90,55,12,Yes,Good,Above-7,M,2,Medium,2,False,True,55.8
+124,F,Lebanon,Lebanon,Elementary,G-02,B,IT,First,Father,70,98,7,5,Yes,Good,Under-7,M,2,Medium,2,False,False,45.0
+125,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,0,6,4,15,Yes,Bad,Under-7,L,2,Low,1,True,False,6.2
+126,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,12,30,0,17,No,Good,Above-7,L,2,Low,1,True,True,14.8
+127,F,Iran,Iran,Elementary,G-02,C,IT,First,Father,2,9,7,55,Yes,Good,Under-7,M,2,Medium,2,False,False,18.2
+128,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,55,33,6,9,No,Bad,Above-7,L,2,Low,1,True,True,25.8
+129,M,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,12,10,20,16,No,Bad,Under-7,L,2,Low,1,True,False,14.5
+130,M,Kuwait,Kuwait,Elementary,G-02,B,IT,First,Father,70,90,2,2,Yes,Good,Under-7,L,2,Low,1,True,False,41.0
+131,F,Kuwait,Kuwait,Elementary,G-02,C,IT,First,Father,7,9,5,30,No,Bad,Above-7,L,2,Low,1,True,True,12.8
+132,M,Jordan,Jordan,Elementary,G-02,C,IT,First,Father,80,42,20,50,Yes,Good,Under-7,M,2,Medium,2,False,False,48.0
+133,M,Kuwait,Kuwait,Elementary,G-02,C,IT,Second,Father,0,3,10,3,No,Bad,Above-7,L,2,Low,1,True,True,4.0
+134,M,Kuwait,Kuwait,Elementary,G-02,A,IT,Second,Father,12,60,0,70,Yes,Good,Above-7,L,2,Low,1,True,True,35.5
+135,M,Kuwait,Kuwait,Middle School,G-07,A,Quran,Second,Father,80,80,15,70,Yes,Good,Under-7,H,7,High,3,False,False,61.2
+136,F,Egypt,Egypt,Middle School,G-07,A,Quran,Second,Mum,70,80,95,70,Yes,Good,Under-7,H,7,High,3,False,False,78.8
+137,F,Kuwait,USA,High School,G-11,A,Quran,Second,Mum,70,80,95,70,Yes,Good,Under-7,H,11,High,3,False,False,78.8
+138,F,Kuwait,USA,High School,G-11,A,Quran,First,Mum,60,80,50,40,No,Bad,Under-7,M,11,Medium,2,False,False,57.5
+139,F,Jordan,Egypt,Middle School,G-07,A,Quran,First,Mum,100,80,95,90,No,Bad,Under-7,H,7,High,3,False,False,91.2
+140,M,Jordan,USA,Middle School,G-07,A,Quran,First,Mum,100,85,85,70,No,Bad,Under-7,M,7,Medium,2,False,False,85.0
+141,M,Tunisia,Tunisia,Middle School,G-07,A,Quran,First,Father,10,60,5,20,Yes,Bad,Above-7,L,7,Low,1,True,True,23.8
+142,M,Tunisia,Tunisia,Middle School,G-07,A,Quran,Second,Father,19,65,50,10,No,Bad,Above-7,L,7,Low,1,True,True,36.0
+143,M,Tunisia,Tunisia,Middle School,G-07,A,Quran,Second,Father,10,75,55,11,Yes,Good,Under-7,M,7,Medium,2,False,False,37.8
+144,M,Kuwait,Kuwait,Middle School,G-07,A,Quran,Second,Father,80,90,55,19,Yes,Good,Under-7,H,7,High,3,False,False,61.0
+145,M,Kuwait,Kuwait,Middle School,G-07,A,Quran,Second,Father,10,10,15,19,No,Bad,Above-7,L,7,Low,1,True,True,13.5
+146,M,Tunisia,Saudi Arabia,Middle School,G-07,A,Quran,Second,Father,70,75,55,11,Yes,Bad,Under-7,M,7,Medium,2,False,False,52.8
+147,F,Lebanon,Lebanon,Middle School,G-07,A,Quran,Second,Mum,100,75,50,70,Yes,Good,Under-7,H,7,High,3,False,False,73.8
+148,F,Lebanon,Lebanon,Middle School,G-07,A,Quran,Second,Father,10,79,30,30,No,Bad,Under-7,M,7,Medium,2,False,False,37.2
+149,F,Jordan,Jordan,Middle School,G-07,A,Quran,Second,Father,60,55,30,40,No,Bad,Under-7,M,7,Medium,2,False,False,46.2
+150,F,Jordan,Lebanon,Middle School,G-07,A,Quran,Second,Mum,100,75,50,70,Yes,Bad,Under-7,H,7,High,3,False,False,73.8
+151,M,Saudi Arabia,Saudi Arabia,High School,G-11,A,Quran,Second,Father,80,80,51,59,Yes,Good,Under-7,H,11,High,3,False,False,67.5
+152,M,Saudi Arabia,USA,High School,G-11,A,Science,Second,Father,23,63,71,89,Yes,Good,Under-7,M,11,Medium,2,False,False,61.5
+153,F,Saudi Arabia,USA,High School,G-11,B,Science,Second,Father,100,91,98,40,Yes,Bad,Under-7,H,11,High,3,False,False,82.2
+154,M,Saudi Arabia,USA,High School,G-11,B,Spanish,Second,Father,10,51,40,40,No,Bad,Above-7,L,11,Low,1,True,True,35.2
+155,M,Saudi Arabia,USA,High School,G-11,B,English,Second,Father,70,50,33,41,No,Bad,Above-7,M,11,Medium,2,False,True,48.5
+156,M,Saudi Arabia,USA,High School,G-11,B,Math,Second,Father,70,58,73,91,Yes,Bad,Under-7,H,11,High,3,False,False,73.0
+157,F,Tunisia,USA,High School,G-11,B,French,Second,Father,70,50,30,49,Yes,Good,Under-7,M,11,Medium,2,False,False,49.8
+158,M,Tunisia,Tunisia,High School,G-11,B,Science,Second,Father,70,50,33,40,No,Good,Under-7,M,11,Medium,2,False,False,48.2
+159,M,Tunisia,Kuwait,Middle School,G-07,B,Science,Second,Father,22,51,48,10,No,Bad,Above-7,L,7,Low,1,True,True,32.8
+160,F,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Father,62,68,48,80,Yes,Good,Under-7,M,7,Medium,2,False,False,64.5
+161,F,Jordan,Jordan,Middle School,G-07,B,Science,Second,Mum,82,89,58,50,Yes,Good,Under-7,H,7,High,3,False,False,69.8
+162,M,Jordan,Jordan,Middle School,G-07,B,Science,Second,Mum,72,80,58,66,No,Bad,Under-7,M,7,Medium,2,False,False,69.0
+163,F,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,70,82,3,73,No,Bad,Under-7,H,2,High,3,False,False,57.0
+164,F,Jordan,USA,Elementary,G-02,B,French,Second,Mum,60,82,93,43,No,Bad,Above-7,M,2,Medium,2,False,True,69.5
+165,M,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,55,72,83,14,Yes,Good,Above-7,M,2,Medium,2,False,True,56.0
+166,F,Morocco,Morocco,Elementary,G-02,B,French,Second,Mum,72,65,73,66,Yes,Good,Under-7,H,2,High,3,False,False,69.0
+167,M,Kuwait,Kuwait,Elementary,G-02,B,French,Second,Mum,51,82,53,43,No,Bad,Under-7,M,2,Medium,2,False,False,57.2
+168,M,Tunisia,Tunisia,Elementary,G-02,B,French,Second,Mum,80,92,83,43,Yes,Good,Under-7,H,2,High,3,False,False,74.5
+169,M,Kuwait,Kuwait,Elementary,G-02,B,French,Second,Mum,60,52,23,33,Yes,Good,Under-7,H,2,High,3,False,False,42.0
+170,M,Kuwait,Kuwait,Elementary,G-02,B,French,Second,Mum,30,12,29,23,No,Bad,Under-7,M,2,Medium,2,False,False,23.5
+171,M,Kuwait,Kuwait,Elementary,G-02,B,French,Second,Father,40,62,83,33,Yes,Good,Under-7,H,2,High,3,False,False,54.5
+172,M,Kuwait,Kuwait,Elementary,G-02,B,French,Second,Mum,60,52,23,33,No,Good,Under-7,M,2,Medium,2,False,False,42.0
+173,M,Iran,Iran,Elementary,G-02,B,French,Second,Mum,20,22,53,13,No,Good,Above-7,L,2,Low,1,True,True,27.0
+174,M,Syria,Syria,Elementary,G-02,B,French,Second,Mum,20,52,23,33,Yes,Good,Above-7,L,2,Low,1,True,True,32.0
+175,F,Jordan,Jordan,Elementary,G-02,B,French,Second,Father,50,62,73,43,Yes,Bad,Above-7,M,2,Medium,2,False,True,57.0
+176,M,Iran,Iran,Elementary,G-02,B,French,Second,Father,10,2,13,53,No,Bad,Above-7,L,2,Low,1,True,True,19.5
+177,M,Tunisia,Tunisia,Elementary,G-02,B,French,Second,Mum,60,52,23,33,Yes,Bad,Under-7,H,2,High,3,False,False,42.0
+178,F,USA,USA,Elementary,G-02,B,French,Second,Mum,15,52,83,11,Yes,Bad,Under-7,M,2,Medium,2,False,False,40.2
+179,F,Lebanon,Lebanon,Elementary,G-02,B,French,Second,Mum,80,42,33,13,Yes,Bad,Under-7,H,2,High,3,False,False,42.0
+180,M,Lebanon,Lebanon,Elementary,G-02,B,French,Second,Mum,40,51,20,33,No,Bad,Under-7,M,2,Medium,2,False,False,36.0
+181,F,Saudi Arabia,Saudi Arabia,Elementary,G-02,B,French,Second,Father,60,70,63,93,Yes,Bad,Under-7,H,2,High,3,False,False,71.5
+182,M,Jordan,Jordan,Elementary,G-02,B,French,Second,Father,50,62,13,33,No,Bad,Above-7,L,2,Low,1,True,True,39.5
+183,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,85,75,62,53,Yes,Bad,Under-7,H,8,High,3,False,False,68.8
+184,F,Lebanon,Lebanon,Middle School,G-08,A,Arabic,Second,Father,25,15,32,53,No,Bad,Under-7,M,8,Medium,2,False,False,31.2
+185,M,Lebanon,Lebanon,Middle School,G-08,A,Arabic,Second,Mum,10,35,30,13,No,Bad,Above-7,L,8,Low,1,True,True,22.0
+186,M,Lebanon,Jordan,Middle School,G-08,A,Arabic,Second,Mum,87,65,82,33,Yes,Good,Under-7,H,8,High,3,False,False,66.8
+187,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,85,15,22,53,Yes,Good,Under-7,M,8,Medium,2,False,False,43.8
+188,F,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Father,80,71,52,51,Yes,Good,Under-7,M,8,Medium,2,False,False,63.5
+189,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,75,71,72,53,Yes,Good,Under-7,H,8,High,3,False,False,67.8
+190,F,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Father,85,66,12,23,No,Bad,Under-7,M,8,Medium,2,False,False,46.5
+191,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Father,23,25,32,53,No,Bad,Under-7,L,8,Low,1,True,False,33.2
+192,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Father,15,25,37,13,Yes,Good,Above-7,L,8,Low,1,True,True,22.5
+193,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,95,91,62,53,Yes,Good,Under-7,M,8,Medium,2,False,False,75.2
+194,M,Morocco,Morocco,Middle School,G-08,A,Arabic,Second,Mum,81,75,62,53,No,Bad,Under-7,M,8,Medium,2,False,False,67.8
+195,M,Morocco,Morocco,Middle School,G-08,A,Arabic,Second,Mum,53,75,72,23,No,Bad,Under-7,M,8,Medium,2,False,False,55.8
+196,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Father,15,43,42,33,Yes,Good,Under-7,M,8,Medium,2,False,False,33.2
+197,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,92,65,62,53,Yes,Good,Under-7,H,8,High,3,False,False,68.0
+198,M,Kuwait,Kuwait,Middle School,G-08,A,Arabic,Second,Mum,83,75,62,53,No,Bad,Under-7,H,8,High,3,False,False,68.2
+199,M,Morocco,Morocco,Middle School,G-08,B,Arabic,Second,Father,27,15,42,53,No,Bad,Above-7,L,8,Low,1,True,True,34.2
+200,M,Kuwait,Kuwait,Middle School,G-08,B,Arabic,Second,Father,45,95,12,13,No,Bad,Under-7,M,8,Medium,2,False,False,41.2
+201,M,Kuwait,Kuwait,Middle School,G-08,B,Arabic,Second,Mum,15,90,52,83,Yes,Bad,Under-7,H,8,High,3,False,False,60.0
+202,F,Lebanon,Lebanon,Middle School,G-08,A,Arabic,Second,Mum,45,58,52,43,Yes,Good,Under-7,H,8,High,3,False,False,49.5
+203,M,Kuwait,Kuwait,Middle School,G-08,B,Arabic,Second,Father,25,5,12,33,Yes,Good,Under-7,M,8,Medium,2,False,False,18.8
+204,F,Kuwait,Kuwait,Middle School,G-08,B,Arabic,Second,Father,22,51,42,40,Yes,Bad,Under-7,M,8,Medium,2,False,False,38.8
+205,M,Jordan,Jordan,Middle School,G-08,B,Arabic,Second,Father,29,10,12,24,No,Bad,Above-7,L,8,Low,1,True,True,18.8
+206,F,Saudi Arabia,Saudi Arabia,Middle School,G-08,B,Arabic,Second,Mum,72,51,42,24,Yes,Bad,Above-7,H,8,High,3,False,True,47.2
+207,M,Kuwait,Kuwait,Middle School,G-08,B,Arabic,Second,Father,67,31,42,14,Yes,Good,Under-7,M,8,Medium,2,False,False,38.5
+208,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Father,17,21,42,14,Yes,Good,Under-7,M,8,Medium,2,False,False,23.5
+209,M,Tunisia,Tunisia,Middle School,G-08,C,Spanish,Second,Mum,27,41,49,14,No,Bad,Under-7,M,8,Medium,2,False,False,32.8
+210,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Father,70,81,39,84,No,Bad,Under-7,M,8,Medium,2,False,False,68.5
+211,M,Jordan,Saudi Arabia,Middle School,G-08,C,Spanish,Second,Mum,27,90,82,14,Yes,Good,Under-7,H,8,High,3,False,False,53.2
+212,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Father,17,61,42,14,No,Bad,Under-7,M,8,Medium,2,False,False,33.5
+213,M,Tunisia,Tunisia,Middle School,G-08,C,Spanish,Second,Mum,87,81,42,19,Yes,Good,Under-7,H,8,High,3,False,False,57.2
+214,M,Tunisia,Tunisia,Middle School,G-08,C,Spanish,Second,Father,7,61,22,14,No,Bad,Above-7,L,8,Low,1,True,True,26.0
+215,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Father,17,50,2,4,No,Bad,Above-7,L,8,Low,1,True,True,18.2
+216,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Father,5,21,42,14,No,Good,Above-7,L,8,Low,1,True,True,20.5
+217,M,Iran,Iran,Middle School,G-08,C,Spanish,Second,Mum,27,41,32,61,Yes,Bad,Above-7,M,8,Medium,2,False,True,40.2
+218,F,Jordan,Kuwait,Middle School,G-08,C,Spanish,Second,Father,87,88,40,10,Yes,Good,Under-7,M,8,Medium,2,False,False,56.2
+219,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Mum,96,61,42,94,Yes,Bad,Under-7,H,8,High,3,False,False,73.2
+220,M,Kuwait,Kuwait,Middle School,G-08,C,Spanish,Second,Mum,57,51,46,34,Yes,Good,Under-7,M,8,Medium,2,False,False,47.0
+221,M,Lebanon,Lebanon,Middle School,G-08,C,Spanish,Second,Father,77,69,41,13,Yes,Good,Under-7,M,8,Medium,2,False,False,50.0
+222,M,Lebanon,Lebanon,Middle School,G-08,C,Spanish,Second,Father,80,51,40,24,No,Good,Under-7,M,8,Medium,2,False,False,48.8
+223,M,Kuwait,Kuwait,Middle School,G-08,B,Spanish,Second,Father,62,61,82,40,Yes,Bad,Under-7,M,8,Medium,2,False,False,61.2
+224,M,Kuwait,Kuwait,Middle School,G-08,A,Spanish,Second,Mum,72,83,12,90,Yes,Good,Under-7,H,8,High,3,False,False,64.2
+225,M,Kuwait,Kuwait,Middle School,G-08,B,Spanish,Second,Mum,87,81,22,70,Yes,Bad,Under-7,H,8,High,3,False,False,65.0
+226,M,Kuwait,Kuwait,Middle School,G-08,A,Spanish,Second,Mum,72,90,12,30,No,Bad,Under-7,M,8,Medium,2,False,False,51.0
+227,M,Kuwait,Kuwait,Middle School,G-08,B,Spanish,Second,Father,2,11,62,30,No,Bad,Under-7,L,8,Low,1,True,False,26.2
+228,M,Kuwait,Kuwait,Middle School,G-08,A,Spanish,Second,Father,5,3,2,10,Yes,Good,Under-7,L,8,Low,1,True,False,5.0
+229,M,Kuwait,Kuwait,High School,G-11,B,Math,Second,Mum,73,84,77,81,Yes,Good,Above-7,H,11,High,3,False,True,78.8
+230,M,Kuwait,Kuwait,Middle School,G-08,A,Spanish,Second,Father,5,17,21,10,No,Bad,Above-7,L,8,Low,1,True,True,13.2
+231,M,Iran,Iran,Middle School,G-08,A,Spanish,Second,Mum,51,42,12,29,No,Bad,Above-7,M,8,Medium,2,False,True,33.5
+232,M,Syria,Jordan,Middle School,G-08,A,Spanish,Second,Father,9,7,21,20,Yes,Good,Above-7,L,8,Low,1,True,True,14.2
+233,M,Syria,Syria,Middle School,G-07,A,Quran,First,Father,19,72,15,50,Yes,Good,Above-7,M,7,Medium,2,False,True,39.0
+234,F,Jordan,Jordan,Middle School,G-07,B,Science,Second,Mum,32,80,58,46,Yes,Good,Above-7,M,7,Medium,2,False,True,54.0
+235,M,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Mum,32,60,58,66,Yes,Good,Above-7,M,7,Medium,2,False,True,54.0
+236,M,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Father,12,8,18,26,No,Bad,Above-7,L,7,Low,1,True,True,16.0
+237,M,Jordan,Jordan,Middle School,G-07,B,Science,Second,Father,52,10,13,6,No,Bad,Above-7,L,7,Low,1,True,True,20.2
+238,M,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Father,72,80,58,66,Yes,Good,Above-7,M,7,Medium,2,False,True,69.0
+239,F,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Mum,72,80,58,66,Yes,Good,Above-7,M,7,Medium,2,False,True,69.0
+240,M,Egypt,Egypt,Middle School,G-07,B,Science,Second,Mum,92,80,88,76,Yes,Good,Under-7,H,7,High,3,False,False,84.0
+241,M,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Mum,72,80,98,96,Yes,Bad,Under-7,H,7,High,3,False,False,86.5
+242,M,Egypt,Egypt,Middle School,G-07,B,Science,Second,Father,72,80,58,86,Yes,Good,Under-7,M,7,Medium,2,False,False,74.0
+243,M,Kuwait,Kuwait,Middle School,G-07,B,Science,Second,Father,22,20,18,6,No,Bad,Above-7,L,7,Low,1,True,True,16.5
+244,M,Egypt,Kuwait,Middle School,G-07,B,Science,Second,Father,12,20,38,46,No,Bad,Above-7,M,7,Medium,2,False,True,29.0
+245,M,Kuwait,Kuwait,Middle School,G-07,B,IT,Second,Mum,70,92,83,85,Yes,Bad,Under-7,H,7,High,3,False,False,82.5
+246,F,Kuwait,Kuwait,Middle School,G-06,A,IT,Second,Father,50,40,52,66,Yes,Bad,Under-7,M,6,Medium,2,False,False,52.0
+247,F,Kuwait,Kuwait,Middle School,G-06,A,Science,Second,Father,80,94,62,77,Yes,Good,Under-7,H,6,High,3,False,False,78.2
+248,F,Kuwait,Kuwait,Middle School,G-06,A,Math,Second,Father,87,48,82,96,No,Bad,Above-7,M,6,Medium,2,False,True,78.2
+249,F,Kuwait,Kuwait,Middle School,G-06,A,Quran,Second,Father,70,40,2,16,No,Bad,Above-7,L,6,Low,1,True,True,32.0
+250,M,Kuwait,Kuwait,Elementary,G-04,A,IT,Second,Father,65,86,62,40,No,Good,Above-7,M,4,Medium,2,False,True,63.2
+251,M,Kuwait,Kuwait,Elementary,G-04,A,Math,Second,Father,15,6,32,40,Yes,Good,Under-7,H,4,High,3,False,False,23.2
+252,M,Egypt,Egypt,Elementary,G-04,A,English,Second,Mum,19,74,32,17,No,Good,Above-7,L,4,Low,1,True,True,35.5
+253,F,Kuwait,Kuwait,Elementary,G-04,A,Science,Second,Father,69,76,82,94,No,Bad,Under-7,M,4,Medium,2,False,False,80.2
+254,M,Kuwait,Kuwait,Elementary,G-04,A,Arabic,Second,Father,39,26,12,44,No,Bad,Above-7,L,4,Low,1,True,True,30.2
+255,M,Kuwait,Kuwait,Elementary,G-04,A,English,Second,Father,59,97,42,70,Yes,Good,Under-7,H,4,High,3,False,False,67.0
+256,M,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Father,10,17,12,40,Yes,Good,Under-7,H,4,High,3,False,False,19.8
+257,F,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Mum,80,87,72,60,No,Good,Under-7,H,4,High,3,False,False,74.8
+258,F,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Father,70,99,66,65,No,Good,Under-7,M,4,Medium,2,False,False,75.0
+259,F,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Father,80,97,86,95,Yes,Good,Under-7,M,4,Medium,2,False,False,89.5
+260,M,Kuwait,Kuwait,Elementary,G-04,A,English,Second,Mum,69,34,12,17,No,Bad,Above-7,L,4,Low,1,True,True,33.0
+261,M,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Father,10,17,12,14,No,Bad,Above-7,L,4,Low,1,True,True,13.2
+262,M,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Father,61,97,82,64,Yes,Bad,Above-7,M,4,Medium,2,False,True,76.0
+263,F,Kuwait,Kuwait,Elementary,G-04,A,History,Second,Mum,21,27,52,34,Yes,Good,Above-7,M,4,Medium,2,False,True,33.5
+264,M,Egypt,Egypt,Elementary,G-04,A,Math,Second,Mum,49,94,42,7,No,Bad,Above-7,M,4,Medium,2,False,True,48.0
+265,F,Jordan,Jordan,Middle School,G-06,A,English,First,Mum,70,64,42,32,No,Bad,Under-7,M,6,Medium,2,False,False,52.0
+266,F,Jordan,Jordan,Middle School,G-06,A,English,Second,Mum,79,84,82,37,No,Bad,Under-7,H,6,High,3,False,False,70.5
+267,M,Jordan,Jordan,Middle School,G-06,A,English,First,Father,19,80,12,17,Yes,Good,Above-7,M,6,Medium,2,False,True,32.0
+268,M,Jordan,Jordan,Middle School,G-06,A,English,Second,Father,11,70,32,29,Yes,Good,Above-7,M,6,Medium,2,False,True,35.5
+269,M,Jordan,Jordan,Middle School,G-06,A,English,First,Father,10,8,10,10,Yes,Bad,Above-7,M,6,Medium,2,False,True,9.5
+270,M,Jordan,Jordan,Middle School,G-06,A,English,Second,Father,18,28,40,20,Yes,Bad,Above-7,M,6,Medium,2,False,True,26.5
+271,F,Jordan,Jordan,Middle School,G-06,A,English,First,Mum,90,84,52,30,No,Good,Under-7,H,6,High,3,False,False,64.0
+272,F,Jordan,Jordan,Middle School,G-06,A,English,Second,Mum,92,81,32,36,No,Good,Under-7,M,6,Medium,2,False,False,60.2
+273,M,Jordan,Jordan,Middle School,G-06,A,English,First,Father,42,21,2,16,No,Bad,Under-7,M,6,Medium,2,False,False,20.2
+274,M,Jordan,Jordan,Middle School,G-06,A,English,Second,Father,22,20,6,26,No,Bad,Under-7,H,6,High,3,False,False,18.5
+275,F,Lebanon,Lebanon,Middle School,G-06,A,English,First,Mum,95,82,82,70,Yes,Good,Under-7,H,6,High,3,False,False,82.2
+276,F,Lebanon,Lebanon,Middle School,G-06,A,English,Second,Mum,90,62,80,60,Yes,Good,Under-7,H,6,High,3,False,False,73.0
+277,M,Palestine,Jordan,Middle School,G-06,A,English,First,Mum,72,21,22,26,Yes,Good,Under-7,H,6,High,3,False,False,35.2
+278,M,Palestine,Jordan,Middle School,G-06,A,English,Second,Mum,92,31,42,27,Yes,Good,Under-7,H,6,High,3,False,False,48.0
+279,M,Palestine,Jordan,Middle School,G-06,A,English,First,Mum,82,31,52,25,No,Good,Under-7,M,6,Medium,2,False,False,47.5
+280,M,Palestine,Jordan,Middle School,G-06,A,English,Second,Mum,72,41,46,27,No,Good,Under-7,M,6,Medium,2,False,False,46.5
+281,M,Iraq,Iraq,Middle School,G-06,A,English,First,Mum,74,71,56,37,No,Good,Under-7,H,6,High,3,False,False,59.5
+282,M,Iraq,Iraq,Middle School,G-06,A,English,Second,Mum,74,60,56,37,No,Good,Under-7,H,6,High,3,False,False,56.8
+283,F,Jordan,Jordan,Middle School,G-06,A,English,First,Mum,95,94,72,80,No,Good,Under-7,H,6,High,3,False,False,85.2
+284,F,Jordan,Jordan,Middle School,G-06,A,English,Second,Mum,97,87,82,86,No,Good,Under-7,H,6,High,3,False,False,88.0
+285,M,Jordan,Jordan,Middle School,G-06,A,English,First,Father,40,38,32,36,No,Bad,Above-7,M,6,Medium,2,False,True,36.5
+286,M,Jordan,Jordan,Middle School,G-06,A,English,Second,Father,41,39,35,39,Yes,Bad,Above-7,M,6,Medium,2,False,True,38.5
+287,F,Jordan,Jordan,Middle School,G-06,A,English,First,Mum,51,79,85,89,Yes,Good,Under-7,H,6,High,3,False,False,76.0
+288,F,Jordan,Jordan,Middle School,G-06,A,English,Second,Mum,81,79,91,85,Yes,Good,Under-7,H,6,High,3,False,False,84.0
+289,M,Palestine,Jordan,Middle School,G-06,A,English,First,Mum,71,70,65,69,Yes,Good,Under-7,M,6,Medium,2,False,False,68.8
+290,M,Palestine,Jordan,Middle School,G-06,A,English,Second,Mum,75,71,76,80,Yes,Good,Under-7,M,6,Medium,2,False,False,75.5
+291,F,Jordan,Jordan,Elementary,G-04,A,Science,First,Father,49,36,32,44,No,Bad,Above-7,L,4,Low,1,True,True,40.2
+292,F,Jordan,Jordan,Elementary,G-04,A,Science,Second,Father,42,24,12,24,No,Bad,Above-7,L,4,Low,1,True,True,25.5
+293,F,Palestine,Palestine,Elementary,G-04,A,Science,First,Mum,90,86,82,74,Yes,Good,Under-7,H,4,High,3,False,False,83.0
+294,F,Palestine,Palestine,Elementary,G-04,A,Science,Second,Mum,62,64,72,84,Yes,Good,Under-7,H,4,High,3,False,False,70.5
+295,M,Iraq,Iraq,Elementary,G-04,A,Science,First,Father,90,86,82,74,Yes,Good,Above-7,M,4,Medium,2,False,True,83.0
+296,M,Iraq,Iraq,Elementary,G-04,A,Science,Second,Father,62,64,72,84,Yes,Good,Above-7,M,4,Medium,2,False,True,70.5
+297,F,Jordan,Jordan,Elementary,G-04,A,Science,First,Mum,98,87,86,84,No,Good,Under-7,H,4,High,3,False,False,88.8
+298,F,Jordan,Jordan,Elementary,G-04,A,Science,Second,Mum,72,74,82,89,No,Good,Under-7,H,4,High,3,False,False,79.2
+299,M,Jordan,Jordan,Elementary,G-04,A,Science,First,Father,18,17,26,34,No,Good,Above-7,M,4,Medium,2,False,True,23.8
+300,M,Jordan,Jordan,Elementary,G-04,A,Science,Second,Father,32,14,32,29,No,Good,Above-7,M,4,Medium,2,False,True,26.8
+301,M,Jordan,Jordan,Elementary,G-04,A,Science,First,Father,10,12,20,13,No,Bad,Above-7,L,4,Low,1,True,True,13.8
+302,M,Jordan,Jordan,Elementary,G-04,A,Science,Second,Father,22,34,15,9,No,Bad,Above-7,L,4,Low,1,True,True,20.0
+303,F,Jordan,Jordan,Elementary,G-04,B,Science,First,Mum,11,20,21,23,No,Bad,Under-7,M,4,Medium,2,False,False,18.8
+304,F,Jordan,Jordan,Elementary,G-04,B,Science,Second,Mum,12,44,25,39,No,Bad,Under-7,M,4,Medium,2,False,False,30.0
+305,F,Jordan,Jordan,Elementary,G-04,B,Science,First,Father,15,50,24,43,Yes,Bad,Under-7,M,4,Medium,2,False,False,33.0
+306,F,Jordan,Jordan,Elementary,G-04,B,Science,Second,Father,32,44,29,89,Yes,Bad,Under-7,M,4,Medium,2,False,False,48.5
+307,M,Jordan,Jordan,Elementary,G-04,B,Science,First,Mum,65,59,74,83,Yes,Good,Under-7,H,4,High,3,False,False,70.2
+308,M,Jordan,Jordan,Elementary,G-04,B,Science,Second,Mum,72,64,59,89,Yes,Good,Under-7,H,4,High,3,False,False,71.0
+309,M,Palestine,Jordan,Elementary,G-04,B,Science,First,Mum,95,57,74,89,Yes,Good,Above-7,M,4,Medium,2,False,True,78.8
+310,M,Palestine,Jordan,Elementary,G-04,B,Science,Second,Mum,82,84,79,79,Yes,Good,Above-7,M,4,Medium,2,False,True,81.0
+311,M,Jordan,Jordan,Elementary,G-04,B,Science,First,Father,25,29,34,33,No,Good,Above-7,M,4,Medium,2,False,True,30.2
+312,M,Jordan,Jordan,Elementary,G-04,B,Science,Second,Father,42,34,29,39,No,Good,Above-7,M,4,Medium,2,False,True,36.0
+313,F,Jordan,Jordan,Elementary,G-04,B,Science,First,Mum,55,79,44,43,Yes,Good,Under-7,H,4,High,3,False,False,55.2
+314,F,Jordan,Jordan,Elementary,G-04,B,Science,Second,Mum,62,64,69,49,Yes,Good,Under-7,H,4,High,3,False,False,61.0
+315,F,Jordan,Lebanon,Elementary,G-04,B,Science,First,Mum,78,88,74,83,Yes,Good,Under-7,H,4,High,3,False,False,80.8
+316,F,Jordan,Lebanon,Elementary,G-04,B,Science,Second,Mum,72,84,89,89,Yes,Good,Under-7,H,4,High,3,False,False,83.5
+317,M,Jordan,Jordan,Elementary,G-02,A,French,First,Mum,60,92,83,23,Yes,Good,Under-7,H,2,High,3,False,False,64.5
+318,M,Jordan,Jordan,Elementary,G-02,A,French,Second,Mum,50,90,83,13,Yes,Good,Under-7,H,2,High,3,False,False,59.0
+319,F,Jordan,Jordan,Elementary,G-02,A,French,First,Mum,60,97,13,3,Yes,Good,Under-7,H,2,High,3,False,False,43.2
+320,F,Jordan,Jordan,Elementary,G-02,A,French,Second,Mum,50,95,23,10,Yes,Good,Under-7,H,2,High,3,False,False,44.5
+321,F,Jordan,Jordan,Elementary,G-02,A,French,First,Mum,60,87,23,11,Yes,Good,Above-7,M,2,Medium,2,False,True,45.2
+322,F,Jordan,Jordan,Elementary,G-02,A,French,Second,Mum,50,80,20,15,Yes,Good,Above-7,M,2,Medium,2,False,True,41.2
+323,M,Jordan,Jordan,Elementary,G-02,A,French,First,Father,10,15,10,21,No,Bad,Above-7,L,2,Low,1,True,True,14.0
+324,M,Jordan,Jordan,Elementary,G-02,A,French,Second,Father,30,10,20,5,No,Bad,Above-7,L,2,Low,1,True,True,16.2
+325,M,Syria,Syria,Elementary,G-02,A,French,First,Father,24,35,18,31,No,Bad,Under-7,M,2,Medium,2,False,False,27.0
+326,M,Syria,Syria,Elementary,G-02,A,French,Second,Father,27,20,33,35,No,Bad,Under-7,M,2,Medium,2,False,False,28.8
+327,F,Jordan,Palestine,Elementary,G-02,A,French,First,Mum,80,77,63,83,Yes,Good,Under-7,M,2,Medium,2,False,False,75.8
+328,F,Jordan,Palestine,Elementary,G-02,A,French,Second,Mum,75,85,73,80,Yes,Good,Under-7,M,2,Medium,2,False,False,78.2
+329,M,Jordan,Jordan,Elementary,G-02,A,French,First,Father,40,7,50,41,No,Good,Above-7,L,2,Low,1,True,True,34.5
+330,M,Jordan,Jordan,Elementary,G-02,A,French,Second,Father,35,2,29,33,No,Good,Above-7,L,2,Low,1,True,True,24.8
+331,F,Jordan,Jordan,Elementary,G-02,A,French,First,Mum,10,90,30,21,No,Good,Under-7,M,2,Medium,2,False,False,37.8
+332,F,Jordan,Jordan,Elementary,G-02,A,French,Second,Mum,25,80,29,23,No,Good,Under-7,M,2,Medium,2,False,False,39.2
+333,M,Libya,Libya,Elementary,G-02,A,French,First,Mum,10,8,9,3,No,Good,Above-7,L,2,Low,1,True,True,7.5
+334,M,Libya,Libya,Elementary,G-02,A,French,Second,Mum,15,7,12,7,No,Good,Above-7,L,2,Low,1,True,True,10.2
+335,F,Palestine,Jordan,Elementary,G-02,A,French,First,Mum,70,90,20,21,No,Good,Under-7,M,2,Medium,2,False,False,50.2
+336,F,Palestine,Jordan,Elementary,G-02,A,French,Second,Mum,75,80,15,20,No,Good,Under-7,M,2,Medium,2,False,False,47.5
+337,F,Palestine,Jordan,Elementary,G-02,B,French,First,Father,78,98,10,11,No,Good,Under-7,M,2,Medium,2,False,False,49.2
+338,F,Palestine,Jordan,Elementary,G-02,B,French,Second,Father,79,89,11,14,No,Good,Under-7,M,2,Medium,2,False,False,48.2
+339,F,Iraq,Iraq,Elementary,G-02,B,French,First,Father,16,90,15,11,No,Good,Under-7,M,2,Medium,2,False,False,33.0
+340,F,Iraq,Iraq,Elementary,G-02,B,French,Second,Father,17,80,13,10,No,Good,Under-7,M,2,Medium,2,False,False,30.0
+341,M,Jordan,Jordan,Elementary,G-02,B,French,First,Mum,40,87,50,41,No,Bad,Under-7,M,2,Medium,2,False,False,54.5
+342,M,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,35,92,29,33,No,Bad,Under-7,M,2,Medium,2,False,False,47.2
+343,F,Jordan,Jordan,Elementary,G-02,B,French,First,Mum,14,97,15,14,No,Good,Under-7,H,2,High,3,False,False,35.0
+344,F,Jordan,Jordan,Elementary,G-02,B,French,First,Mum,13,82,20,30,No,Good,Under-7,H,2,High,3,False,False,36.2
+345,F,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,24,97,15,14,No,Good,Under-7,H,2,High,3,False,False,37.5
+346,F,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,23,82,20,30,No,Good,Under-7,H,2,High,3,False,False,38.8
+347,M,Libya,Libya,Elementary,G-02,B,French,First,Mum,20,3,9,3,No,Good,Above-7,L,2,Low,1,True,True,8.8
+348,M,Libya,Libya,Elementary,G-02,B,French,Second,Mum,15,4,12,7,No,Good,Above-7,L,2,Low,1,True,True,9.5
+349,M,Egypt,Egypt,Elementary,G-02,B,French,First,Mum,5,13,6,6,No,Good,Above-7,L,2,Low,1,True,True,7.5
+350,M,Egypt,Egypt,Elementary,G-02,B,French,Second,Mum,7,9,11,10,No,Good,Above-7,L,2,Low,1,True,True,9.2
+351,F,Jordan,Jordan,Elementary,G-02,B,French,First,Mum,10,94,40,11,Yes,Good,Under-7,M,2,Medium,2,False,False,38.8
+352,F,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,25,89,21,13,Yes,Good,Under-7,M,2,Medium,2,False,False,37.0
+353,M,Jordan,Jordan,Elementary,G-02,B,French,First,Mum,30,98,42,21,Yes,Good,Under-7,H,2,High,3,False,False,47.8
+354,M,Jordan,Jordan,Elementary,G-02,B,French,Second,Mum,35,97,41,23,Yes,Good,Under-7,H,2,High,3,False,False,49.0
+355,M,Jordan,Jordan,Elementary,G-02,B,French,First,Father,32,88,32,25,Yes,Good,Under-7,M,2,Medium,2,False,False,44.2
+356,M,Jordan,Jordan,Elementary,G-02,B,French,Second,Father,25,87,21,27,Yes,Good,Under-7,M,2,Medium,2,False,False,40.0
+357,F,Lebanon,Lebanon,Elementary,G-02,B,French,First,Mum,72,98,52,15,Yes,Good,Under-7,H,2,High,3,False,False,59.2
+358,F,Lebanon,Lebanon,Elementary,G-02,B,French,Second,Mum,75,90,51,17,Yes,Good,Under-7,H,2,High,3,False,False,58.2
+359,M,Jordan,Jordan,Elementary,G-02,A,Arabic,First,Father,20,88,31,28,Yes,Good,Above-7,M,2,Medium,2,False,True,41.8
+360,M,Jordan,Jordan,Elementary,G-02,A,Arabic,Second,Father,10,98,41,38,Yes,Good,Above-7,M,2,Medium,2,False,True,46.8
+361,M,Palestine,Jordan,Elementary,G-02,A,Arabic,First,Father,90,98,41,38,Yes,Good,Under-7,H,2,High,3,False,False,66.8
+362,M,Palestine,Jordan,Elementary,G-02,A,Arabic,Second,Father,80,88,51,39,Yes,Good,Under-7,H,2,High,3,False,False,64.5
+363,M,Iraq,Iraq,Elementary,G-02,A,Arabic,First,Father,80,95,21,28,Yes,Good,Under-7,H,2,High,3,False,False,56.0
+364,M,Iraq,Iraq,Elementary,G-02,A,Arabic,Second,Father,78,70,31,29,Yes,Good,Under-7,H,2,High,3,False,False,52.0
+365,M,Jordan,Jordan,Elementary,G-02,A,Arabic,First,Father,10,18,71,38,Yes,Good,Above-7,M,2,Medium,2,False,True,34.2
+366,M,Jordan,Jordan,Elementary,G-02,A,Arabic,Second,Father,10,58,51,48,Yes,Good,Above-7,M,2,Medium,2,False,True,41.8
+367,F,Palestine,Jordan,Elementary,G-02,A,Arabic,First,Mum,98,88,60,31,No,Good,Under-7,H,2,High,3,False,False,69.2
+368,F,Palestine,Jordan,Elementary,G-02,A,Arabic,Second,Mum,75,81,51,34,No,Good,Under-7,H,2,High,3,False,False,60.2
+369,M,Jordan,Jordan,Elementary,G-02,A,Arabic,First,Father,10,17,50,21,No,Bad,Under-7,M,2,Medium,2,False,False,24.5
+370,M,Jordan,Jordan,Elementary,G-02,A,Arabic,Second,Father,35,2,29,23,No,Bad,Under-7,M,2,Medium,2,False,False,22.2
+371,F,Jordan,Jordan,Elementary,G-02,A,Arabic,First,Father,10,20,22,97,No,Bad,Above-7,L,2,Low,1,True,True,37.2
+372,F,Jordan,Jordan,Elementary,G-02,A,Arabic,Second,Father,5,9,19,98,No,Bad,Above-7,L,2,Low,1,True,True,32.8
+373,M,Jordan,Jordan,Elementary,G-02,B,Arabic,First,Father,10,10,40,51,No,Bad,Above-7,L,2,Low,1,True,True,27.8
+374,M,Jordan,Jordan,Elementary,G-02,B,Arabic,Second,Father,35,2,29,23,No,Bad,Above-7,L,2,Low,1,True,True,22.2
+375,M,Jordan,Jordan,Elementary,G-02,B,Arabic,First,Mum,20,90,50,61,Yes,Bad,Above-7,M,2,Medium,2,False,True,55.2
+376,M,Jordan,Jordan,Elementary,G-02,B,Arabic,Second,Mum,32,82,59,63,Yes,Bad,Above-7,M,2,Medium,2,False,True,59.0
+377,M,Jordan,Jordan,Elementary,G-02,B,Arabic,First,Father,10,30,50,91,Yes,Bad,Above-7,L,2,Low,1,True,True,45.2
+378,M,Jordan,Jordan,Elementary,G-02,B,Arabic,Second,Father,12,22,59,83,Yes,Bad,Above-7,L,2,Low,1,True,True,44.0
+379,F,Jordan,Jordan,Elementary,G-02,B,Arabic,First,Father,11,20,20,98,No,Bad,Above-7,L,2,Low,1,True,True,37.2
+380,F,Jordan,Jordan,Elementary,G-02,B,Arabic,Second,Father,10,12,29,93,No,Bad,Above-7,L,2,Low,1,True,True,36.0
+381,M,Iraq,Iraq,Elementary,G-02,B,Arabic,First,Mum,69,82,20,28,Yes,Good,Under-7,H,2,High,3,False,False,49.8
+382,M,Iraq,Iraq,Elementary,G-02,B,Arabic,Second,Mum,70,83,29,33,Yes,Good,Under-7,H,2,High,3,False,False,53.8
+383,F,Iraq,Iraq,Elementary,G-02,B,Arabic,First,Mum,89,92,40,28,Yes,Good,Under-7,H,2,High,3,False,False,62.2
+384,F,Iraq,Iraq,Elementary,G-02,B,Arabic,Second,Mum,79,93,49,23,Yes,Good,Under-7,H,2,High,3,False,False,61.0
+385,M,Jordan,Jordan,Elementary,G-02,B,Arabic,First,Mum,15,90,21,97,Yes,Good,Under-7,M,2,Medium,2,False,False,55.8
+386,M,Jordan,Jordan,Elementary,G-02,B,Arabic,Second,Mum,20,77,31,88,Yes,Good,Under-7,M,2,Medium,2,False,False,54.0
+387,M,Jordan,Saudi Arabia,Elementary,G-02,B,Arabic,First,Mum,4,10,11,7,No,Good,Above-7,L,2,Low,1,True,True,8.0
+388,M,Jordan,Saudi Arabia,Elementary,G-02,B,Arabic,Second,Mum,5,0,1,8,No,Good,Above-7,L,2,Low,1,True,True,3.5
+389,F,Jordan,Jordan,Middle School,G-07,A,Biology,First,Mum,88,81,50,10,Yes,Good,Above-7,M,7,Medium,2,False,True,57.2
+390,F,Jordan,Jordan,Middle School,G-07,A,Biology,Second,Mum,90,88,54,12,Yes,Good,Above-7,M,7,Medium,2,False,True,61.0
+391,F,Iraq,Iraq,Middle School,G-07,A,Biology,First,Mum,86,98,50,20,Yes,Good,Under-7,H,7,High,3,False,False,63.5
+392,F,Iraq,Iraq,Middle School,G-07,A,Biology,Second,Mum,90,90,57,22,Yes,Good,Under-7,H,7,High,3,False,False,64.8
+393,M,Jordan,Palestine,Middle School,G-07,A,Biology,First,Mum,78,91,50,40,Yes,Good,Under-7,H,7,High,3,False,False,64.8
+394,M,Jordan,Palestine,Middle School,G-07,A,Biology,Second,Mum,70,98,54,72,Yes,Good,Under-7,H,7,High,3,False,False,73.5
+395,M,Jordan,Jordan,Middle School,G-07,A,Biology,First,Father,80,80,46,61,Yes,Bad,Under-7,M,7,Medium,2,False,False,66.8
+396,M,Jordan,Jordan,Middle School,G-07,A,Biology,Second,Father,85,82,59,63,Yes,Bad,Under-7,M,7,Medium,2,False,False,72.2
+397,M,Palestine,Palestine,Middle School,G-07,A,Biology,First,Father,88,90,86,81,Yes,Good,Under-7,H,7,High,3,False,False,86.2
+398,M,Palestine,Palestine,Middle School,G-07,A,Biology,Second,Father,89,92,89,83,Yes,Good,Under-7,H,7,High,3,False,False,88.2
+399,M,Jordan,Jordan,Middle School,G-07,A,Biology,First,Father,39,71,40,26,No,Good,Above-7,M,7,Medium,2,False,True,44.0
+400,M,Jordan,Jordan,Middle School,G-07,A,Biology,Second,Father,35,80,34,22,No,Good,Above-7,M,7,Medium,2,False,True,42.8
+401,M,Jordan,Jordan,Middle School,G-07,A,Biology,First,Father,76,81,80,86,No,Good,Under-7,H,7,High,3,False,False,80.8
+402,M,Jordan,Jordan,Middle School,G-07,A,Biology,Second,Father,65,89,64,82,No,Good,Under-7,H,7,High,3,False,False,75.0
+403,F,Syria,Syria,Middle School,G-07,A,Biology,First,Mum,96,95,70,70,Yes,Good,Under-7,H,7,High,3,False,False,82.8
+404,F,Syria,Syria,Middle School,G-07,A,Biology,Second,Mum,80,91,87,72,Yes,Good,Under-7,H,7,High,3,False,False,82.5
+405,M,Jordan,Jordan,Middle School,G-07,A,Biology,First,Mum,2,9,10,1,No,Bad,Above-7,L,7,Low,1,True,True,5.5
+406,M,Jordan,Jordan,Middle School,G-07,A,Biology,Second,Mum,3,8,19,3,No,Bad,Above-7,L,7,Low,1,True,True,8.2
+407,M,Jordan,Jordan,Middle School,G-07,B,Biology,First,Father,50,79,10,31,No,Bad,Under-7,M,7,Medium,2,False,False,42.5
+408,M,Jordan,Jordan,Middle School,G-07,B,Biology,Second,Father,53,88,9,33,No,Bad,Under-7,M,7,Medium,2,False,False,45.8
+409,F,Jordan,Jordan,Middle School,G-07,B,Biology,First,Mum,70,89,12,21,No,Good,Under-7,H,7,High,3,False,False,48.0
+410,F,Jordan,Jordan,Middle School,G-07,B,Biology,Second,Mum,59,90,19,43,No,Good,Under-7,H,7,High,3,False,False,52.8
+411,M,Palestine,Jordan,Middle School,G-07,B,Biology,First,Father,78,80,66,51,Yes,Good,Under-7,M,7,Medium,2,False,False,68.8
+412,M,Palestine,Jordan,Middle School,G-07,B,Biology,Second,Father,79,72,79,83,Yes,Good,Under-7,M,7,Medium,2,False,False,78.2
+413,F,Libya,Libya,Middle School,G-07,B,Biology,First,Mum,10,9,2,1,No,Good,Above-7,L,7,Low,1,True,True,5.5
+414,F,Libya,Libya,Middle School,G-07,B,Biology,Second,Mum,9,7,9,3,No,Good,Above-7,L,7,Low,1,True,True,7.0
+415,M,Iraq,Iraq,Middle School,G-07,B,Biology,First,Father,98,90,86,71,Yes,Good,Under-7,H,7,High,3,False,False,86.2
+416,M,Iraq,Iraq,Middle School,G-07,B,Biology,Second,Father,89,92,89,83,Yes,Good,Under-7,H,7,High,3,False,False,88.2
+417,M,Palestine,Jordan,Middle School,G-07,B,Biology,First,Father,88,90,76,81,Yes,Good,Under-7,H,7,High,3,False,False,83.8
+418,M,Palestine,Jordan,Middle School,G-07,B,Biology,Second,Father,99,96,89,84,Yes,Good,Under-7,H,7,High,3,False,False,92.0
+419,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,82,89,22,31,Yes,Good,Under-7,H,8,High,3,False,False,56.0
+420,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,84,92,29,43,Yes,Good,Under-7,H,8,High,3,False,False,62.0
+421,F,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,70,69,46,45,Yes,Good,Above-7,M,8,Medium,2,False,True,57.5
+422,F,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,74,62,49,43,Yes,Good,Above-7,M,8,Medium,2,False,True,57.0
+423,F,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,90,79,76,79,Yes,Good,Under-7,H,8,High,3,False,False,81.0
+424,F,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,84,77,79,68,Yes,Good,Under-7,H,8,High,3,False,False,77.0
+425,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,80,80,62,11,Yes,Good,Above-7,M,8,Medium,2,False,True,58.2
+426,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,81,82,69,13,Yes,Good,Above-7,M,8,Medium,2,False,True,61.2
+427,M,Jordan,Saudi Arabia,Middle School,G-08,A,Chemistry,First,Father,10,0,2,41,No,Bad,Above-7,L,8,Low,1,True,True,13.2
+428,M,Jordan,Saudi Arabia,Middle School,G-08,A,Chemistry,Second,Father,11,2,9,49,No,Bad,Above-7,L,8,Low,1,True,True,17.8
+429,M,Jordan,Saudi Arabia,Middle School,G-08,A,Geology,First,Father,85,89,22,61,No,Bad,Under-7,H,8,High,3,False,False,64.2
+430,M,Jordan,Saudi Arabia,Middle School,G-08,A,Geology,Second,Father,80,89,23,68,No,Bad,Under-7,H,8,High,3,False,False,65.0
+431,M,Jordan,Saudi Arabia,Middle School,G-08,A,Geology,First,Father,95,87,62,81,No,Bad,Under-7,M,8,Medium,2,False,False,81.2
+432,M,Jordan,Saudi Arabia,Middle School,G-08,A,Geology,Second,Father,87,79,73,98,No,Bad,Under-7,M,8,Medium,2,False,False,84.2
+433,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,85,87,72,10,Yes,Good,Above-7,M,8,Medium,2,False,True,63.5
+434,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,79,88,79,20,Yes,Good,Above-7,M,8,Medium,2,False,True,66.5
+435,M,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,80,81,71,30,Yes,Good,Under-7,M,8,Medium,2,False,False,65.5
+436,M,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,70,83,70,23,Yes,Good,Under-7,M,8,Medium,2,False,False,61.5
+437,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,80,82,76,19,Yes,Good,Under-7,M,8,Medium,2,False,False,64.2
+438,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,70,82,75,29,Yes,Good,Under-7,M,8,Medium,2,False,False,64.0
+439,M,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,89,87,86,15,Yes,Good,Under-7,M,8,Medium,2,False,False,69.2
+440,M,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,90,86,85,10,Yes,Good,Under-7,M,8,Medium,2,False,False,67.8
+441,M,Jordan,Jordan,Middle School,G-08,A,History,First,Mum,69,77,76,75,Yes,Good,Above-7,M,8,Medium,2,False,True,74.2
+442,M,Jordan,Jordan,Middle School,G-08,A,History,Second,Mum,70,76,65,70,Yes,Good,Above-7,M,8,Medium,2,False,True,70.2
+443,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,75,72,64,39,Yes,Good,Above-7,L,8,Low,1,True,True,62.5
+444,M,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,72,76,66,40,Yes,Good,Above-7,L,8,Low,1,True,True,63.5
+445,M,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,77,82,74,79,Yes,Good,Under-7,M,8,Medium,2,False,False,78.0
+446,M,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,71,84,67,80,Yes,Good,Under-7,M,8,Medium,2,False,False,75.5
+447,M,Jordan,Jordan,Middle School,G-08,A,History,First,Mum,87,92,74,89,Yes,Good,Under-7,H,8,High,3,False,False,85.5
+448,M,Jordan,Jordan,Middle School,G-08,A,History,Second,Mum,81,84,77,85,Yes,Good,Under-7,H,8,High,3,False,False,81.8
+449,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Father,15,97,22,10,Yes,Good,Under-7,H,8,High,3,False,False,36.0
+450,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Father,19,98,20,2,Yes,Good,Under-7,H,8,High,3,False,False,34.8
+451,F,Jordan,Jordan,Middle School,G-08,A,Geology,First,Father,25,82,52,20,Yes,Good,Above-7,M,8,Medium,2,False,True,44.8
+452,F,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Father,29,78,40,12,Yes,Good,Above-7,M,8,Medium,2,False,True,39.8
+453,F,Jordan,Jordan,Middle School,G-08,A,History,First,Father,45,87,57,80,Yes,Good,Under-7,M,8,Medium,2,False,False,67.2
+454,F,Jordan,Jordan,Middle School,G-08,A,History,Second,Father,39,88,43,72,Yes,Good,Under-7,M,8,Medium,2,False,False,60.5
+455,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Father,85,90,52,30,Yes,Good,Under-7,H,8,High,3,False,False,64.2
+456,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Father,79,91,49,22,Yes,Good,Under-7,H,8,High,3,False,False,60.2
+457,M,Iraq,Iraq,Middle School,G-08,A,Chemistry,First,Father,90,91,80,81,Yes,Good,Under-7,H,8,High,3,False,False,85.5
+458,M,Iraq,Iraq,Middle School,G-08,A,Chemistry,Second,Father,80,90,80,83,Yes,Good,Under-7,H,8,High,3,False,False,83.2
+459,M,Iraq,Iraq,Middle School,G-08,A,Geology,First,Father,80,83,82,71,Yes,Good,Above-7,M,8,Medium,2,False,True,79.0
+460,M,Iraq,Iraq,Middle School,G-08,A,Geology,Second,Father,71,81,83,72,Yes,Good,Above-7,M,8,Medium,2,False,True,76.8
+461,M,Iraq,Iraq,Middle School,G-08,A,History,First,Father,72,87,72,89,Yes,Good,Above-7,M,8,Medium,2,False,True,80.0
+462,M,Iraq,Iraq,Middle School,G-08,A,History,Second,Father,69,77,83,92,Yes,Good,Above-7,M,8,Medium,2,False,True,80.2
+463,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Mum,85,99,42,90,Yes,Good,Under-7,H,8,High,3,False,False,79.0
+464,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Mum,89,96,45,92,Yes,Good,Under-7,H,8,High,3,False,False,80.5
+465,F,Jordan,Jordan,Middle School,G-08,A,Geology,First,Mum,80,82,64,58,Yes,Good,Under-7,H,8,High,3,False,False,71.0
+466,F,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Mum,87,93,63,60,Yes,Good,Under-7,H,8,High,3,False,False,75.8
+467,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Father,15,9,14,80,No,Bad,Above-7,L,8,Low,1,True,True,29.5
+468,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Father,9,6,15,85,No,Bad,Above-7,L,8,Low,1,True,True,28.8
+469,M,Palestine,Jordan,Middle School,G-08,A,History,First,Father,81,86,86,41,Yes,Good,Under-7,M,8,Medium,2,False,False,73.5
+470,M,Palestine,Jordan,Middle School,G-08,A,History,Second,Father,78,82,78,53,Yes,Good,Under-7,M,8,Medium,2,False,False,72.8
+471,M,Palestine,Palestine,Middle School,G-08,A,Geology,First,Father,80,87,74,68,Yes,Good,Under-7,M,8,Medium,2,False,False,77.2
+472,M,Palestine,Palestine,Middle School,G-08,A,Geology,Second,Father,85,88,79,70,Yes,Good,Under-7,M,8,Medium,2,False,False,80.5
+473,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,First,Father,2,7,4,8,No,Bad,Above-7,L,8,Low,1,True,True,5.2
+474,F,Jordan,Jordan,Middle School,G-08,A,Chemistry,Second,Father,5,4,5,8,No,Bad,Above-7,L,8,Low,1,True,True,5.5
+475,F,Jordan,Jordan,Middle School,G-08,A,Geology,First,Father,50,77,14,28,No,Bad,Under-7,M,8,Medium,2,False,False,42.2
+476,F,Jordan,Jordan,Middle School,G-08,A,Geology,Second,Father,55,74,25,29,No,Bad,Under-7,M,8,Medium,2,False,False,45.8
+477,F,Jordan,Jordan,Middle School,G-08,A,History,First,Father,30,17,14,57,No,Bad,Above-7,L,8,Low,1,True,True,29.5
+478,F,Jordan,Jordan,Middle School,G-08,A,History,Second,Father,35,14,23,62,No,Bad,Above-7,L,8,Low,1,True,True,33.5
